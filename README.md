@@ -51,7 +51,7 @@
 ---
 
 ## Contact Me
-- **Email**: [hritikranjan1@gmail.com](mailto:hritikranjan1408@gmail.com)
+- **Email**: [hritikranjan1408@gmail.com](mailto:hritikranjan1408@gmail.com)
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/hritik-ranjan-05a835230/)
 - **GitHub**: [hritikranjan1](https://github.com/hritikranjan1)
 
