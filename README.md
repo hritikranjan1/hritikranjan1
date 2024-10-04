@@ -55,7 +55,7 @@
 - 🔗 LinkedIn: [Hritik Ranjan](https://www.linkedin.com/in/hritik-ranjan-05a835230/)
 - 🐦 Twitter: [Hritik Ranjan](https://twitter.com/luvranjan143)
 - 💬 Discord: [Hritik Ranjan](https://discord.com/channels/@me)
-- 🔗 Hashnode: [Hritik Ranjan](https://hashnode.com/@luvranjan143)
+- 🌐 Hashnode: [Hritik Ranjan](https://hashnode.com/@luvranjan143)
 
 ---
 
