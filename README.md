@@ -1,6 +1,6 @@
 # Hritik Ranjan
 
-![Profile Banner](https://www.canva.com/design/DAGRxN0D7Q8/2eQeHhyAaDmVq4xSHGid_A/edit?utm_content=DAGRxN0D7Q8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Profile Banner](https://github.com/hritikranjan1/Imagehosting/blob/main/Navy%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true)
 
 ## About Me
 👋 Hi there! I’m Hritik Ranjan, a B.Tech student in Computer Science Engineering with a passion for Artificial Intelligence, **Machine Learning, and **Cybersecurity. I love building innovative solutions and exploring the latest technologies to solve real-world problems.
