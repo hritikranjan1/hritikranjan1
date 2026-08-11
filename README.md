@@ -52,8 +52,8 @@ Maharshi Dayanand University, Rohtak
 
 <br/>
 
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=hritikranjan1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=hritikranjan1&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-beryl-theta-18.vercel.app/api?username=hritikranjan1&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-beryl-theta-18.vercel.app/api?username=hritikranjan1&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
 
 </div>
 
