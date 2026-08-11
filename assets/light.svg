@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="680" viewBox="0 0 1180 680">
 <rect width="1180" height="610" rx="22" fill="#F8FAFC"/>
-<rect x="14" y="14" width="1152" height="582" rx="18" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".45"/>
+<rect x="14" y="14" width="1152" height="652" rx="18" fill="#FFFFFF" stroke="#0891B2" stroke-opacity=".45"/>
 <circle cx="42" cy="42" r="7" fill="#F87171"/><circle cx="64" cy="42" r="7" fill="#10B981"/><circle cx="86" cy="42" r="7" fill="#0891B2"/>
 <text x="108" y="48" fill="#475569" font-family="monospace" font-size="16">profile.sh --live</text>
 
@@ -12090,7 +12090,10 @@
 <rect x="474" y="522" width="560" height="42" rx="21" fill="#10B981" fill-opacity=".12" stroke="#10B981" stroke-opacity=".5"/>
 <text x="754" y="549" text-anchor="middle" fill="#10B981" font-family="monospace" font-size="15">BUILD • TEST • AUTOMATE • DEPLOY</text>
 
-<g transform="translate(520,0)">
+<rect x="474" y="575" width="560" height="76" rx="18" fill="#0B1222" stroke="#22D3EE" stroke-opacity=".28"/>
+<text x="494" y="598" fill="#64748B" font-family="monospace" font-size="10" letter-spacing="1.5">ACTIVE STACK</text>
+
+<g transform="translate(520,30)">
 
       <g id="logo-playwright" opacity="0">
         <circle cx="140" cy="585" r="38" fill="none" stroke="#2EAD33" stroke-width="7"/>
@@ -12112,9 +12115,9 @@
 
 <style>
 @keyframes fadeLogo {
-  0%, 18% { opacity: 0; transform: translateY(8px); }
-  23%, 39% { opacity: 1; transform: translateY(0); }
-  44%, 100% { opacity: 0; transform: translateY(-8px); }
+  0%, 16% { opacity: 0; transform: translateY(8px); }
+  22%, 42% { opacity: 1; transform: translateY(0); }
+  48%, 100% { opacity: 0; transform: translateY(-8px); }
 }
 #logo-playwright { animation: fadeLogo 12s infinite; }
 #logo-aws { animation: fadeLogo 12s 4s infinite; }
